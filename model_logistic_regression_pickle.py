@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Nov 30 00:48:54 2017
 
-@author: Aishwarya
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sat Nov 25 17:04:23 2017
 
 @author: Venkatesh T Mohan
